@@ -1,4 +1,4 @@
 helloworld
 ==========
 
-This is only for test, for test ONLY.
+This is ONLY for test.
